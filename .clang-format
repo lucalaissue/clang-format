@@ -42,6 +42,7 @@ Cpp11BracedListStyle: 'false'
 DerivePointerAlignment: 'false'
 FixNamespaceComments: 'false'
 IncludeBlocks: Preserve
+IndentCaseLabels: 'true'
 IndentWidth: '4'
 IndentWrappedFunctionNames: 'false'
 JavaScriptQuotes: Double
